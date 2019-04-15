@@ -1,0 +1,5 @@
+git init			标记当前文件夹
+git add .   			将文件添加缓存
+git status  			查看文件变更状态
+git commit -m "提交说明"   	提交修改
+git push    			推送所有分支
